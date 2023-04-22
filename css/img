@@ -1,0 +1,17 @@
+<table style="width:100%">
+ <tr>
+    <th>Имя</th>
+    <th></th>
+    <th>Лет</th>
+ </tr>
+ <tr>
+    <td>Джилл</td>
+    <td>Смит</td>
+    <td>50</td>
+ </tr>
+  <tr>
+    <td>Ева</td>
+    <td>Джексон</td>
+    <td>94</td>
+  </tr>
+</table>
